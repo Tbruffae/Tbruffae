@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Tbruffae
-- 👀 I’m interested in Physics
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ULB's projects
-- 📫 How to reach me : teobruf@gmail.com
+- 👀 I’m interested in Particle Physics
+- 🌱 I’m currently working on the JUNO Experiment
+- 📫 How to reach me : teo.bruffaerts@ulb.be
 
 <!---
 Tbruffae/Tbruffae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
